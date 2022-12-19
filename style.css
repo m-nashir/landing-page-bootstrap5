@@ -70,6 +70,13 @@ body{
 .services .card-body i{
     font-size: 50px;
 }
+.img-projects{
+    height: 80%;
+}
+.img-team{
+    height: 65px;
+    width: 65px;
+}
 
 /* ========= RESPONSIVE =========*/
 @media only screen and(min-width: 768px) and (max-width: 991px){
